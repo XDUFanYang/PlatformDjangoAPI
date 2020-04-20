@@ -1,0 +1,31 @@
+published:
+  - app:
+      category: life
+      application: weather
+      name: 天气
+      url: /service/weather
+      desc: this is a weather app.
+  - app:
+      category: life
+      application: backup-image
+      name: 图片备份
+      url: /service/image
+      desc: this is a backup image app.
+  - app:
+      category: life
+      application: stock
+      name: 股票
+      url: /service/stock
+      desc: this is a stock app.
+  - app:
+      category: life
+      application: joke
+      name: 每日笑话
+      url: /service/joke
+      desc: this is a joke app.
+  - app:
+      category: life
+      application: constellation
+      name: 星座运势
+      url: /service/constellation
+      desc: this is a constellation app.
